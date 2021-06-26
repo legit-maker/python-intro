@@ -1,0 +1,7 @@
+print("I almost passed")
+print("the class")
+print("Lorem Ipsum is simply dummy")
+print("")
+print('eque porro quisq')
+print('Where can I get some?')
+print('Donate Bitcoin')
